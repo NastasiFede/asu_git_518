@@ -635,6 +635,7 @@ AlienBullet.prototype = new Bullet();
 Asteroid = function () {
   this.init("asteroid",
             [-10,   0,
+			
               -5,   7,
               -3,   4,
                1,  10,
