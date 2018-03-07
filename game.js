@@ -6,7 +6,11 @@
 KEY_CODES = {
   32: 'space',
   37: 'left',
+<<<<<<< HEAD
   38: 'enter',
+=======
+  38:   'shift',
+>>>>>>> be3137a9f1c18bd9f4804691c1a7de125f653ee1
   39: 'right',
   40: 'down',
   70: 'f',
@@ -94,6 +98,7 @@ Sprite = function () {
 
   this.children = {};
 
+  
   this.visible  = false;
   this.reap     = false;
   this.bridgesH = true;
