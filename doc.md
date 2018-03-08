@@ -1,9 +1,10 @@
 <<<<<<< HEAD
-# Дубина Анастасия
-`Console.Writeline("Hello, world!");`
+# Дубина Анастасия#
+```Console.Writeline("Hello, world!");```
 *[git - the simple guide](http://rogerdudler.github.io/git-guide/)
 *[офіційні гайди Github](https://guides.github.com/)
 =======
+
 # Дубина Анастасия
 `Console.Writeline("Hello, world!");`
 *[git - the simple guide](http://rogerdudler.github.io/git-guide/)
